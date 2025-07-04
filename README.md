@@ -12,6 +12,27 @@
 ----------------------------------------
 </pre>
 
+## INPUT 
+
+<pre> 
+Student Name: John Doe
+Roll No: 101
+Registration No: 202301
+Department: Computer Science
+University: ABC University
+</pre>
+Note: Type <pre>end</pre> after completing of your input
+
+## OUTPUT (FROM information.txt)
+<pre>
+-----------------------------
+Name      : John Doe
+Roll      : 101
+Reg.      : 202301
+Department: Computer Science
+University: ABC University
+-----------------------------
+</pre>
 
 
 A simple Command Line Interface (CLI) program in C that allows users to store and retrieve student information using basic file handling techniques.
