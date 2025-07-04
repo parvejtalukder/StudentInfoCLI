@@ -1,5 +1,16 @@
 # Student Information CLI 
 
+> ----------------------------------------  
+> ----------------------------------------  
+> *====|| Student Info Software ||====*  
+> 1. Add New Student  
+> 2. Show All Students  
+> 3. Exit  
+> 4. Tutorial  
+> ----------------------------------------  
+> ----------------------------------------  
+
+
 A simple Command Line Interface (CLI) program in C that allows users to store and retrieve student information using basic file handling techniques.
 
 ---
@@ -34,3 +45,5 @@ A simple Command Line Interface (CLI) program in C that allows users to store an
 ### Compile:
 ```bash
 gcc main.c 
+
+
