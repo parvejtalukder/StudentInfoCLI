@@ -1,4 +1,4 @@
-# Student Information CLI 
+# Student_Information (CLI) 
 
 <pre>
 ----------------------------------------
